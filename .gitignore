@@ -1,3 +1,5 @@
+data/
+env/
 .ipynb_checkpoints/
-
-
+.Trash-0/
+*.keras
