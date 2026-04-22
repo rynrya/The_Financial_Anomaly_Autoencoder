@@ -1,2 +1,5 @@
 echo ".ipynb_checkpoints/" >> .gitignore
 .ipynb_checkpoints/
+
+
+The_Financial_Anomaly_Autoencoder/creditcard.csv
